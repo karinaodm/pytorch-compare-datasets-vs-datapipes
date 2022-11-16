@@ -1,0 +1,4 @@
+data/
+prepare_data/
+__pycache__/
+.vscode/
